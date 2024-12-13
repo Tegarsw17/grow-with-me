@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357360031162",
+    "project_id": "grow-with-me-da691",
+    "storage_bucket": "grow-with-me-da691.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357360031162:android:81cac218e292aea3fbb983",
+        "android_client_info": {
+          "package_name": "com.example.grow_with_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357360031162-ojh1nct0987nsfn766mtandmcs7khda7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEEf_GmqvZnQjXoVDvaFz8Ynv9_n_U02w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357360031162-ojh1nct0987nsfn766mtandmcs7khda7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

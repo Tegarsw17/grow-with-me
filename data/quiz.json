@@ -1,0 +1,25 @@
+{
+    "question": "Siapa penemu bola lampu ...",
+    "options": [
+      {
+        "id": "A",
+        "text": "Issac Newton",
+        "isCorrect": false
+      },
+      {
+        "id": "B",
+        "text": "Thomas Alfa Edison",
+        "isCorrect": true
+      },
+      {
+        "id": "C",
+        "text": "Iscandar Philip",
+        "isCorrect": false
+      },
+      {
+        "id": "D",
+        "text": "Nelson Mandela",
+        "isCorrect": false
+      }
+    ]
+  }
